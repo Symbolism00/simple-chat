@@ -2,9 +2,9 @@
 
 - Check if you have node installed on your computer (the last version would be preferred)
 - Clone or Fork the repository
-- Open "client" folder in VSCode, for example, and run "npm i" in the console
+- Open **client** folder in VSCode, for example, and run "npm i" in the console
 - If everything went well then run "npm run dev" (it will say that the server has started at localhost:3000)
-- Open "server" folder in VSCode, for example, and run "npm i" in the console
+- Open **server** folder in VSCode, for example, and run "npm i" in the console
 - If everything went well then run "npm run dev" (it will say that the server has started at localhost:4000)
 - Open your browser with two tabs in the same URL localhost:3000
 - Join two different people by giving them a username
