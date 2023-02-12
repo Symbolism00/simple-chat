@@ -1,7 +1,7 @@
 # How to run/use simple-chat
 
 - Check if you have node installed on your computer (the last version would be preferred)
-- Clone the repository
+- Clone or Fork the repository
 - Open "client" folder in VSCode, for example, and run "npm i" in the console
 - If everything went well then run "npm run dev" (it will say that the server has started at localhost:3000)
 - Open "server" folder in VSCode, for example, and run "npm i" in the console
